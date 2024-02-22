@@ -1,16 +1,25 @@
-# ReViT
+# Event Management Admin Login
 
-A React boilerplate with TypeScript, TailwindCSS and Vite.
+This is a simple admin login page for an event management system. It is built with React.js and Tailwind CSS.
 
 ## Installation/Usage
 
-You can start using this repo as a template or clone the repostory and start hacking
+You can start using this repo as a template or clone the repository and start hacking
 
 ```bash
-  git clone https://github.com/rabira-hierpa/revit
-  cd vite
-  npm install
+  git clone https://github.com/rabira-hierpa/event-managmnet-admin-login.git
+  cd event-managmnet-admin-login
+  yarn
+  yarn run dev
 ```
+
+### Demo
+
+[Event Management Admin Login](https://master--ems-login-page.netlify.app/)
+
+## Tech Stack
+
+**Client:** React, TailwindCSS
 
 ## License
 
